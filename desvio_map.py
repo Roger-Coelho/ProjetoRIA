@@ -1,6 +1,5 @@
 # Projeto de RIA - Roger William Coêlho
 
-
 # coding=utf-8
 # Insert in a script in Coppelia
 # simRemoteApi.start(19999)

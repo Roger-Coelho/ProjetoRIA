@@ -1,5 +1,4 @@
-# Trabalho de RIA - Roger William Coêlho
-# RA = pg54807
+# Projeto de RIA - Roger William Coêlho
 
 
 # coding=utf-8
